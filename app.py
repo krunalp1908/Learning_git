@@ -1,0 +1,1 @@
+print('this is my first learning git journey.')
